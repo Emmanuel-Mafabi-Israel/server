@@ -1,13 +1,13 @@
 {
-  "name": "fake-server",
+  "name": "mafabi-server",
   "version": "1.0.0",
-  "description": "fake server with fake database",
+  "description": "mafabi - server: hosting db.json",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Youssef Zidan",
-  "license": "ISC",
+  "author": "Mafabi Emmanuel",
+  "license": "MIT",
   "dependencies": {
     "json-server": "^0.16.3"
   }
